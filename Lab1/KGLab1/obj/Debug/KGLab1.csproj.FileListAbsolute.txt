@@ -1,0 +1,13 @@
+C:\Users\PC\Documents\KGLab1\KGLab1\bin\Debug\KGLab1.exe.config
+C:\Users\PC\Documents\KGLab1\KGLab1\bin\Debug\KGLab1.exe
+C:\Users\PC\Documents\KGLab1\KGLab1\bin\Debug\KGLab1.pdb
+C:\Users\PC\Documents\KGLab1\KGLab1\obj\Debug\KGLab1.csprojAssemblyReference.cache
+C:\Users\PC\Documents\KGLab1\KGLab1\obj\Debug\KGLab1.Form1.resources
+C:\Users\PC\Documents\KGLab1\KGLab1\obj\Debug\KGLab1.Properties.Resources.resources
+C:\Users\PC\Documents\KGLab1\KGLab1\obj\Debug\KGLab1.csproj.GenerateResource.cache
+C:\Users\PC\Documents\KGLab1\KGLab1\obj\Debug\KGLab1.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\KGLab1\KGLab1\obj\Debug\KGLab1.exe
+C:\Users\PC\Documents\KGLab1\KGLab1\obj\Debug\KGLab1.pdb
+C:\Users\PC\Documents\KGLab1\KGLab1\obj\Debug\KGLab1.FormForBrightnessFilter.resources
+C:\Users\PC\Documents\KGLab1\KGLab1\obj\Debug\KGLab1.FormForTransfer.resources
+C:\Users\PC\Documents\KGLab1\KGLab1\obj\Debug\KGLab1.FormForTurn.resources
