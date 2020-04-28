@@ -1,0 +1,17 @@
+C:\Users\PC\Documents\KGLab2\KGLab2\obj\Debug\KGLab2.csprojAssemblyReference.cache
+C:\Users\PC\Documents\KGLab2\KGLab2\obj\Debug\KGLab2.Form1.resources
+C:\Users\PC\Documents\KGLab2\KGLab2\obj\Debug\KGLab2.Properties.Resources.resources
+C:\Users\PC\Documents\KGLab2\KGLab2\obj\Debug\KGLab2.csproj.GenerateResource.cache
+C:\Users\PC\Documents\KGLab2\KGLab2\obj\Debug\KGLab2.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\KGLab2\KGLab2\bin\Debug\KGLab2.exe.config
+C:\Users\PC\Documents\KGLab2\KGLab2\bin\Debug\KGLab2.exe
+C:\Users\PC\Documents\KGLab2\KGLab2\bin\Debug\KGLab2.pdb
+C:\Users\PC\Documents\KGLab2\KGLab2\bin\Debug\OpenTK.dll
+C:\Users\PC\Documents\KGLab2\KGLab2\bin\Debug\OpenTK.GLControl.dll
+C:\Users\PC\Documents\KGLab2\KGLab2\bin\Debug\OpenTK.pdb
+C:\Users\PC\Documents\KGLab2\KGLab2\bin\Debug\OpenTK.xml
+C:\Users\PC\Documents\KGLab2\KGLab2\bin\Debug\OpenTK.dll.config
+C:\Users\PC\Documents\KGLab2\KGLab2\bin\Debug\OpenTK.GLControl.xml
+C:\Users\PC\Documents\KGLab2\KGLab2\obj\Debug\KGLab2.csproj.CopyComplete
+C:\Users\PC\Documents\KGLab2\KGLab2\obj\Debug\KGLab2.exe
+C:\Users\PC\Documents\KGLab2\KGLab2\obj\Debug\KGLab2.pdb
